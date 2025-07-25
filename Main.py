@@ -1,3 +1,13 @@
+"""
+main.py: Třetí projekt do Engeto Online Python Akademie
+
+author: Jan OGURČÁK
+email: jan.ogurcak@seznam.cz
+"""
+
+
+
+
 from bs4 import BeautifulSoup
 import requests
 import time
